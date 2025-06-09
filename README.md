@@ -1,4 +1,3 @@
-# Site-Web-Portfolio
 # Luiz Eduardo Mariz - Portfolio
 
 Welcome to my personal portfolio! This repository showcases my journey into the world of technology, highlighting my inspirations, projects, and the skills I'm developing as a student at CESAR School.
@@ -57,9 +56,9 @@ Projects are essential for learning and skill development. Here are two games I'
 
 I'm always open to new connections and opportunities. Feel free to reach out through my social channels:
 
-* **LinkedIn:** [Link to your LinkedIn profile - *Add your actual link here*]
-* **GitHub:** [Link to your GitHub profile - *Add your actual link here*]
-* **Instagram:** [Link to your Instagram profile - *Add your actual link here*]
+* **LinkedIn:** www.linkedin.com/in/luizeduardomariz
+* **GitHub:** https://github.com/LuizEduardoMariz
+* **Instagram:** https://www.instagram.com/luizeduardomariz?igsh=cHRtcnVhamJzNGQw
 
 ---
 
